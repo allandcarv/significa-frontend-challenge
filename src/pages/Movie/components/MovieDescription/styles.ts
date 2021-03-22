@@ -13,8 +13,9 @@ export const Article = styled.article`
           display: inline-flex;
           justify-content: center;
           align-items: center;
-          width: 23px;
+          width: auto;
           height: 28px;
+          padding: 0 5px;
           background-color: ${Colors.lightGrey};
           color: ${Colors.dark};
           border-radius: 5px;
